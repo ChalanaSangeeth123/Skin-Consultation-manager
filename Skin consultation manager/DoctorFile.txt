@@ -1,0 +1,5 @@
+bandara  ravindu  05-06-2000  12354698  003  eyecare 
+kalhara  ganidu  06-05-1996  026468  002  dentist 
+malindu  gayashan  04-02-1996  123456789  005  psycologist 
+malindu  sadun  12-12-2000  0456789213  008  facecare 
+silva  madushan  05-12-2000  01233789456  ganidu  medicine 
